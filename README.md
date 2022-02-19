@@ -2,7 +2,7 @@
 ## Código em python3 que permite que você consulte informações de um CEP
 
 ### Install:
-pip install pysimplegui
+pip install requests
 or
-pip3 install pysimplegui
+pip3 install requests
 
